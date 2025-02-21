@@ -1,15 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/31867166/196738604-b9b383b9-f5db-4285-8137-1f04be45a117.gif)]
 <h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">Results-driven Frontend Developer / Software Engineer with 1.5+ years of experience in building scalable, high-performance, and AI-integrated web applications. Proficient in React.js, JavaScript, TypeScript, Tailwind CSS, WebSocket, and Generative AI integrations, with a strong background in real-time communication and chatbot configurations.</h3>
 <img align="right" alt="Coding" width="150px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tivivek&label=Profile%20views&color=0e75b6&style=flat" alt="tivivek" /> </p>
 
 <p align="left" width="400"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tivivek" alt="tivivek" /></a> </p>
 
 
-- 🌱 I’m currently learning **Node.js, React.js**
+- 🌱 I’m currently working at Kapture Cx a saas based product company
 
-- 💬 Ask me about **Java,frontend,dsa**
+- 💬 Ask me about **frontend,dsa,java**
 
 - 📫 How to reach me **vivek03t@gmail.com**
 
